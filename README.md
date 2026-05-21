@@ -45,3 +45,5 @@ Contributions are welcome! Here's how you can help:
 ##  License
 
 - MIT
+## Author
+Sahithi Myneni
